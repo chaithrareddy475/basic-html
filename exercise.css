@@ -1,0 +1,66 @@
+.request-button{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 110px;
+    margin: 10px;
+}
+.amazon-button{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.signup-button{
+    background-color: rgb(46,164,79);
+    color: white;
+    border-radius: 8px;
+    border: none ;
+    height: 35px;
+    width: 80px;
+    margin: 10px;
+}
+.bootstrap-button{
+background-color: rgb(121, 82, 179);
+color: white;
+border: none;
+border-radius: 2px;
+height: 35px;
+width: 110px;
+margin: 10px;
+font-weight: 300;
+}
+.download-button{
+background-color: rgb(234, 238, 241);
+color: black;
+border-radius: 2px;
+height: 36px;
+width: 110px;
+border: none;
+margin: 10px;
+
+}
+.apply{
+    background-color: rgb(3, 31, 188);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 200px;
+    border-radius: 18px;
+}
+.save-button{
+    background-color: white;
+    color: blue;
+    height: 36px;
+    width: 100px;
+    margin: 18px;
+    border: none;
+    border-radius: 18px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    
+}
